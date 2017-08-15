@@ -1,3 +1,6 @@
+# I am trying to make a game where you wake up in a random house, without knowing how you got there. Then after depending on your decision you will either find a bear or a man outside.
+# The goal from there is to make the correct decision and escape from the area. For my game there is no way you can lose, I just wanted to create it to where you escape each no matter what,
+# but depending on the decision it will go by pretty short or take a bit longer to escape.
 
 # A life or Death decision
 def man1():
